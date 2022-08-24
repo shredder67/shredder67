@@ -1,5 +1,5 @@
 ### :v: Yo, my name is Sergey
-I am currently 4th year undergrad student in Russian Technological University, most of my time studying ML and DL (and everything related to it). I also like to draw stuff and read manga :)
+I am currently 4th year undergrad from Russian Technological University, most of my time studying ML and DL (and everything related to it). I also like to draw stuff and read manga :)
 
 ### :fist: Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
