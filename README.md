@@ -1,5 +1,5 @@
 ### :v: Yo, my name is Sergey
-I am a graduate from RTU (Russian Techonological University), majored in Software Engineering and rolling through Data Science masters in Skoltech. I love doing everything related to Deep Learning, while studying new frameworks and Rust 🦀 in free time! 
+I graduated from **RTU** (Russian Techonological University) as Software Engineer and right now am rolling through Data Science masters at **Skoltech**. I love doing everything related to **Deep Learning** and **ML**, while studying frameworks, tools, reading papers and sometimes playing with Rust 🦀 in free time! I also occasionally write stuff in my blog at Medium.
 
 ### :fist: Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +17,3 @@ I am a graduate from RTU (Russian Techonological University), majored in Softwar
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
-### :zap: Personal Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shredder67&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shredder67&hide=Jupyter+Notebook&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
